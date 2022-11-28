@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Registertasl = () => {
+const Registertask = () => {
   return (
     <div>Registertask</div>
   )
 }
 
-export default Registertasl
+export default Registertask
